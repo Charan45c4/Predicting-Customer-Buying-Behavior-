@@ -1,3 +1,5 @@
+#Predicting Customer Buying Behavior Using Random Forest
+
 Project Overview: Predicting Customer Buying Behavior Using Random Forest
 
 Objective: The objective of this project is to predict customer buying behavior based on various factors such as demographic information, purchasing history, and other customer characteristics. The goal is to build a model that accurately classifies customers into groups based on their likelihood of making a purchase, using the Random Forest algorithm.
