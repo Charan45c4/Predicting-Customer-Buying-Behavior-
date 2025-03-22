@@ -22,10 +22,3 @@ Data Visualization: Plotting distributions of different features, visualizing co
 
 Feature Importance Analysis: Using techniques like correlation matrices or tree-based methods to identify the most significant features influencing customer behavior.
 
-Modeling:
-
-Random Forest Algorithm: Implementing the Random Forest classifier, which is an ensemble learning method. It constructs multiple decision trees during training and outputs the mode of the classes (for classification problems) of the individual trees.
-
-Hyperparameter tuning using GridSearchCV to optimize parameters like the number of trees, maximum depth, etc.
-
-Using cross-validation to prevent overfitting and to assess the model’s performance across different subsets of the data.
